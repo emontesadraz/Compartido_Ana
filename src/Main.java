@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.printf("Heyyyyyyyyyy!");
+        System.out.printf("Heyyyyyyyyyyoooooo!");
 
         for (int i = 1; i <= 5; i++) {
 
